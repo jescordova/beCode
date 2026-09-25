@@ -15,3 +15,9 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+
+# test-temporaire
+test_temporaire.txt
+
+# cspell
+cspell.json

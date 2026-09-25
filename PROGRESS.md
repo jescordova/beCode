@@ -6,9 +6,8 @@ Coche au fur et à mesure. Note la date et tes remarques.
 |--------|--------|------|------------------|
 | 00 — Introduction & installation | ✅ | 2026-09-21 | Exercices faits, venv OK |
 | 01 — Terminal | ✅ | 2026-09-21 | stats.sh OK, wildcard maîtrisé |
-| 02 — Git | 🟡 | | |
-| 02 — Git | ⬜ | | |
-| 03 — Python bases | ⬜ | | |
+| 02 — Git | ✅ | 2026-09-22 | Poussé sur GitHub ✅ — soigner les messages de commit |
+| 03 — Python bases | 🟡 | | |
 | 04 — Python intermédiaire | ⬜ | | |
 | 05 — Maths | ⬜ | | |
 | 06 — NumPy & Pandas | ⬜ | | |

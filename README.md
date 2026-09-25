@@ -75,7 +75,7 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` terminé
 - [x] Module 00 — Introduction à l'IA & Data Science
 - [~] Module 01 — Terminal
 - [x] Module 02 — Git
-- [ ] Module 03 — Python bases
+- [x] Module 03 — Python bases
 - [ ] Module 04 — Python intermédiaire
 - [ ] Module 05 — Maths
 - [ ] Module 06 — NumPy & Pandas
